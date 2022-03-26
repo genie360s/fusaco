@@ -6,3 +6,4 @@ The Technologies used in this product are:
 > 1. solidify (ethereum-blockchain-opensource project)
 -mobile payment api's
 > 1. python and javascript
+testing
