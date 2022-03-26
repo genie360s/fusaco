@@ -6,9 +6,10 @@ The Technologies used in this product are:
 -blockchain technology(smart-contracts) and token creation.
 > 1. [solidify](https://docs.soliditylang.org/en/v0.8.13/) ethereum-blockchain-opensource project  .
 -mobile payment api's
-> 1. python and javascript
+> 1. [python](https://www.python.org/) and javascript
 
-The product aims at creating a decentralized saccos system for local communities where decisions in the particular saccos community are done democratically by votes.
+The product aims at creating a decentralized saccos system for local communities where decisions in the particular saccos community are done democratically by votes based on the tokens owned by an individual in the saccos.
+
 This includes 
 -lending money
 -making changes to the code project
