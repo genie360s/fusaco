@@ -1,10 +1,10 @@
 # fusaco
 
 -------
-Fusaco is a product that aims at digitalizing saccos from its traditional ways of operation to digitalized ways of operation.
+Fusaco is a product that aims at digitalizing saccos from its traditional ways of operation to digitalized (decentralized) ways of operation.
 The Technologies used in this product are:
--blockchain technology(smart-contracts)
-> 1. solidify (ethereum-blockchain-opensource project)
+-blockchain technology(smart-contracts) and token creation.
+> 1. [solidify](https://docs.soliditylang.org/en/v0.8.13/) ethereum-blockchain-opensource project  .
 -mobile payment api's
 > 1. python and javascript
 
@@ -15,4 +15,4 @@ This includes
 -Interest rates
 -actions that are related to the specific saccos community. 
 
-The
+The 
