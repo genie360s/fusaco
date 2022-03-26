@@ -15,4 +15,8 @@ This includes
 -Interest rates
 -actions that are related to the specific saccos community. 
 
-The
+The project mimicks the concept of dao -but aims at localizing the solution to be implemented through mobile payment sytems(ussd and sms)
+
+Concept of Implementation.
+-A group of people of the same interest create a "fusaco community a" where they buy tokens via the mobile payment system with a particular mobile wallet (id) in the general pool of tokens (ito) and pull them together in the "fusaco community a" .
+-Incase of lending money which refers to overdrawing with the terms of returning it with a particular interest rate at a given time. And if that doesn't occur , voting will take place to return the borrowed tokens.
